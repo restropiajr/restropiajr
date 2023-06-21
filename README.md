@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **restropiajr@gmail.com**
 
-- ⚡ Fun fact **Avid Gamer (Currently playing Diablo 4 and Valorant)**
+- ⚡ Fun fact **Avid Gamer (Currently play Valorant, Fortnite, and Diablo 4)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
