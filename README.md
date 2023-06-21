@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roland Estropia Jr.</h1>
 <h3 align="center">A Mechanical Engineer turned Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=restropiajr&label=Profile%20views&color=0e75b6&style=flat" alt="restropiajr" /> </p>
-
 - 🔭 I’m currently working on **LearningFuze's Full-Immersion Web Development Program**
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS**
@@ -11,13 +9,8 @@
 
 - ⚡ Fun fact **Avid Gamer (Currently playing Diablo 4 and Valorant)**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/restropiajr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="restropiajr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/restropiajr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="restropiajr" height="30" width="40" /></a>
 </p>
 
