@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roland Estropia Jr.</h1>
 <h3 align="center">Mechanical Engineer :arrow_right: Software Engineer</h3>
 
-- 🔭 I’m currently working on **LearningFuze's Full-Immersion Web Development Program**
+- 🔭 I’m currently working on **LearningFuze's Full-Immersion Remote Web Development Program**
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS**
 
