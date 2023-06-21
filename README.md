@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hey! 👋
 
 <!--
 **restropiajr/restropiajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=restropiajr&show_icons=true)
+
+- 🔭 I’m currently working to improve my web development skills
+- 🌱 I’m currently learning React.js, Node.js, Express.js, PostgreSQL,
+- 📫 How to reach me: restropiajr@gmail.com
+- ⚡ Fun fact: Avid gamer - Currently playing Diablo 4 and Valorant
