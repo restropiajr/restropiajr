@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **LearningFuze's Full-Immersion Remote Web Development Program**
 
-- 🌱 I’m currently learning: **React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS**
+- 🌱 I’m currently learning: **React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, TypeScript**
 
 - 📫 How to reach me: **restropiajr@gmail.com**
 
