@@ -27,3 +27,25 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=restropiajr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="restropiajr " /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=restropiajr&hide=stars,contribs&show_icons=true&theme=tokyonight&locale=en" alt="restropiajr" /></p>
+
+<br><br>
+
+<table>
+<tbody>
+  <tr>
+    <td width="50%">
+        <p align="center">
+            <b>PlayValorant</b>
+        </p>
+        <p align="center">
+            <img alt="Screenshot of PlayValorant" width="100%" src="https://github.com/restropiajr/PlayValorant/assets/66459527/b7c2dd88-7463-4182-8b7a-7df6868e2824">
+        </p> 
+        <p align="center">
+            <b>HTML, CSS, JavaScript</b> — A dynamic website that allows users to view game information for Valorant by Riot Games.
+        </p>
+        <p align="center">
+            <a href="https://restropiajr.github.io/PlayValorant/" target="_blank">Project Website</a>  | <a href="https://github.com/restropiajr/PlayValorant" target="_blank">Github Repo</a>
+        </p>
+    </td> 
+</tbody>
+</table>
