@@ -21,13 +21,13 @@
 <h3 align="left">🌱 Currently Learning</h3>
 <p align="left"><b> - React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, TypeScript</b></p>
 
-<h3 align="left">📫 How To Reach Me</h3>
+<h3 align="left">📫 Contact Me</h3>
 <p align="left"><b> - restropiajr@gmail.com</b></p>
 
 <h3 align="left">⚡ Fun Fact</h3>
 <p align="left"><b> - Avid Gamer (Currently playing Valorant, Fortnite, and Diablo 4)</b></p>
 
-<h3 align="left">📚 Languages and 🛠️ Tools</h3>
+<h3 align="left">📚 Languages & 🛠️ Tools</h3>
 <p align="left"><b> Stack - JavaScript (ES5/ES6), HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, TypeScript</b></p>
 <p align="left"><b> Tools - Git, GitHub, VS Code, Chrome DevTools, Figma, Slack, Docker, Google Cloud</b></p>
 
