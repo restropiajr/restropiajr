@@ -33,7 +33,7 @@
 <table>
 <tbody>
   <tr>
-    <td width="50%">
+    <td width="100%">
         <p align="center">
             <b>PlayValorant</b>
         </p>
