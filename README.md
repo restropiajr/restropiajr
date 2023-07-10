@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Roland Estropia Jr.</h1>
+<h1 align="center">Hello 👋🏽, I'm Roland Estropia Jr.</h1>
 <h3 align="center">Mechanical Engineer :arrow_right: Software Engineer</h3>
 
 - 🔭 I’m currently working on: **LearningFuze's Full-Immersion Remote Web Development Program**
