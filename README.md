@@ -25,7 +25,7 @@
 <p align="left"><b> - restropiajr@gmail.com</b></p>
 
 <h3 align="left">⚡ Fun Fact</h3>
-<p align="left"><b> - Avid Gamer (Currently play Valorant, Fortnite, and Diablo 4)</b></p>
+<p align="left"><b> - Avid Gamer (Currently playing Valorant, Fortnite, and Diablo 4)</b></p>
 
 <h3 align="left">📚 Languages and 🛠️ Tools</h3>
 <p align="left"><b> Stack - JavaScript (ES5/ES6), HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, TypeScript</b></p>
