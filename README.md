@@ -24,6 +24,6 @@
 
 - 🛠️ Tools - Git, GitHub, VS Code, Chrome DevTools, Figma, Slack, Docker, Google Cloud
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=restropiajr&show_icons=true&locale=en&layout=compact&theme=moltack" alt="restropiajr " /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=restropiajr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="restropiajr " /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=restropiajr&hide=stars,contribs&show_icons=true&theme=moltack&locale=en" alt="restropiajr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=restropiajr&hide=stars,contribs&show_icons=true&theme=tokyonight&locale=en" alt="restropiajr" /></p>
