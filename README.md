@@ -19,7 +19,7 @@
 <p align="left"><b> - LearningFuze's Full-Immersion Remote Web Development Program</b></p>
 
 <h3 align="left">🌱 Currently Learning</h3>
-<p align="left"><b> - React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, TypeScript</b></p>
+<p align="left"><b> - React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, TypeScript, Jest</b></p>
 
 <h3 align="left">⚡ Fun Fact</h3>
 <p align="left"><b> - Avid Gamer (Currently playing Valorant, Fortnite, and Diablo 4)</b></p>
