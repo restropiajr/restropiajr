@@ -35,11 +35,16 @@
 <table>
 <tbody>
   <tr>
-    <td width="100%">
+    <td width="50%">
         <p align="center"><b>PlayValorant</b></p>
         <p align="center"><img alt="Screenshot of PlayValorant" width="100%" src="https://github.com/restropiajr/PlayValorant/assets/66459527/b7c2dd88-7463-4182-8b7a-7df6868e2824"></p> 
         <p align="center"><b>HTML, CSS, JavaScript</b> — A dynamic website that allows users to view game information for Valorant by Riot Games.</p>
         <p align="center"><a href="https://restropiajr.github.io/PlayValorant/" target="_blank">Project Website</a>  | <a href="https://github.com/restropiajr/PlayValorant" target="_blank">GitHub Repo</a></p>
+    </td> 
+    <td width="50%">
+        <p align="center"><b>HYPE</b></p>
+        <p align="center"><b>PostgreSQL, Express, React, Node</b> — An interactive website that allows users to explore, purchase, and checkout a curated collection of streetwear products.</p>
+        <p align="center"><a href="https://hype.restropiajr.com/" target="_blank">Project Website</a>  | <a href="https://github.com/restropiajr/HYPE" target="_blank">GitHub Repo</a></p>
     </td> 
   </tr>
 </tbody>
