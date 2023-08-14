@@ -41,6 +41,8 @@
         <p align="center"><b>HTML, CSS, JavaScript</b> — A dynamic website that allows users to view game information for Valorant by Riot Games.</p>
         <p align="center"><a href="https://restropiajr.github.io/PlayValorant/" target="_blank">Project Website</a>  | <a href="https://github.com/restropiajr/PlayValorant" target="_blank">GitHub Repo</a></p>
     </td> 
+  </tr>
+  <tr>
     <td width="50%">
         <p align="center"><b>HYPE</b></p>
         <p align="center"><img alt="Screenshot of HYPE" width="100%" src="https://github.com/restropiajr/HYPE/assets/66459527/ae4ff6c7-79c9-4d16-8ab9-f6dd78a0f243"></p> 
