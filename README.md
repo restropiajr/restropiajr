@@ -5,7 +5,9 @@
 <br>
 
 <div align="center"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+  
+[![stack](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,tailwind,ts,git,github,vscode,figma,aws)](https://skillicons.dev)
+
 </div>
 
 <br>
@@ -16,17 +18,18 @@
 </div>
 
 <h3 align="left">🔭 Currently Working On</h3>
-<p align="left"><b> - LearningFuze's Full-Immersion Remote Web Development Program</b></p>
+<p align="left"><b> - Looking for Employment and Portfolio</b></p>
 
 <h3 align="left">🌱 Currently Learning</h3>
-<p align="left"><b> - React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, TypeScript, Jest</b></p>
+<p align="left"><b> - TypeScript</b></p>
 
-<h3 align="left">⚡ Fun Fact</h3>
-<p align="left"><b> - Avid Gamer (Currently playing Valorant, Fortnite, and Diablo 4)</b></p>
+<h3 align="left">⚡ Fun Facts</h3>
+<p align="left"><b> - I have three dogs: Pekingese (Yuna), French Bulldog (Maya), and French Bulldog (Theodore)</b></p>
+<p align="left"><b> - I love playing video games during downtime (Currently playing Valorant and Fortnite)</b></p>
 
 <h3 align="left">📚 Languages & 🛠️ Tools</h3>
 <p align="left"><b> - Stack: JavaScript (ES5/ES6), HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, TypeScript</b></p>
-<p align="left"><b> - Tools: Git, GitHub, VS Code, Chrome DevTools, HTTPie, Figma, Slack, Docker, Google Cloud, Jest</b></p>
+<p align="left"><b> - Tools: Git, GitHub, VS Code, Chrome DevTools, HTTPie, npm, Figma, Slack, Google Cloud, AWS, Dokku</b></p>
 
 <h3 align="left">📫 Contact Me</h3>
 <p align="left"><b> - restropiajr@gmail.com</b></p>
