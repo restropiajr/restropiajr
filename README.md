@@ -25,7 +25,7 @@
 
 <h3 align="left">⚡ Fun Facts</h3>
 <p align="left"><b> - I have three dogs: Pekingese (Yuna), French Bulldog (Maya), and French Bulldog (Theodore)</b></p>
-<p align="left"><b> - I love playing video games during downtime (Currently playing Valorant and Fortnite)</b></p>
+<p align="left"><b> - I am an avid gamer (Currently playing Valorant and Fortnite)</b></p>
 
 <h3 align="left">📚 Languages & 🛠️ Tools</h3>
 <p align="left"><b> - Stack: JavaScript (ES5/ES6), HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, TypeScript</b></p>
