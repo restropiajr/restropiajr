@@ -44,7 +44,7 @@
     <td width="50%">
         <p align="center"><b>HYPE</b></p>
         <p align="center"><img alt="Screenshot of HYPE" width="100%" src="https://github.com/restropiajr/HYPE/assets/66459527/ae4ff6c7-79c9-4d16-8ab9-f6dd78a0f243"></p> 
-        <p align="center"><b>PostgreSQL, Express, React, Node</b> — An interactive website that allows users to explore, purchase, and checkout a curated collection of streetwear products.</p>
+        <p align="center"><b>PostgreSQL, Express, React, Node</b> — An interactive website that allows users to explore, purchase, and checkout a collection of streetwear products.</p>
         <p align="center"><a href="https://hype.restropiajr.com/" target="_blank">Project Website</a>  | <a href="https://github.com/restropiajr/HYPE" target="_blank">GitHub Repo</a></p>
     </td> 
   </tr>
