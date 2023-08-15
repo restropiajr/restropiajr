@@ -6,7 +6,7 @@
 
 <div align="center"> 
   
-[![stack](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,tailwind,ts,git,github,vscode,figma)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,tailwind,ts,git,github,vscode,figma,docker)](https://skillicons.dev)
 
 </div>
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">📚 Languages & 🛠️ Tools</h3>
 <p align="left"><b> - Stack: JavaScript (ES5/ES6), HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, TypeScript</b></p>
-<p align="left"><b> - Tools: Git, GitHub, VS Code, Chrome DevTools, HTTPie, npm, Figma, Slack, Google Cloud</b></p>
+<p align="left"><b> - Tools: Git, GitHub, VS Code, Chrome Dev Tools, HTTPie, NPM, Figma, Slack, DB Designer, Docker</b></p>
 
 <h3 align="left">📫 Contact Me</h3>
 <p align="left"><b> - restropiajr@gmail.com</b></p>
