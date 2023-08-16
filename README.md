@@ -21,7 +21,7 @@
 <p align="left"><b> - Looking for Employment and my Portfolio</b></p>
 
 <h3 align="left">🌱 Currently Learning</h3>
-<p align="left"><b> - Next.js and TypeScript</b></p>
+<p align="left"><b> - Next.js, TypeScript, Tailwind CSS</b></p>
 
 <h3 align="left">⚡ Fun Facts</h3>
 <p align="left"><b> - I have three dogs: Pekingese (Yuna), French Bulldog (Maya), and French Bulldog (Theodore)</b></p>
