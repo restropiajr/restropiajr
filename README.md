@@ -13,8 +13,8 @@
 <br>
 
 <div align="center"> 
-<img height=155 src="https://github-readme-stats.vercel.app/api/top-langs?username=restropiajr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="restropiajr "/>
-<img height=155 src="https://github-readme-stats.vercel.app/api?username=restropiajr&hide=stars,contribs&show_icons=true&theme=tokyonight&locale=en" alt="restropiajr"/>
+<img height=155 src="https://readmestats.999857.xyz/api/top-langs?username=restropiajr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="restropiajr "/>
+<img height=155 src="https://readmestats.999857.xyz/api?username=restropiajr&hide=stars,contribs&show_icons=true&theme=tokyonight&locale=en" alt="restropiajr"/>
 </div>
 
 <h3 align="left">🔭 Currently Working On</h3>
