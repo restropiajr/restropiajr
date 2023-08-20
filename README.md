@@ -51,7 +51,7 @@
         <p align="center"><b>PlayValorant</b></p>
         <p align="center"><img alt="Screenshot of PlayValorant" width="100%" src="https://github.com/restropiajr/PlayValorant/assets/66459527/b7c2dd88-7463-4182-8b7a-7df6868e2824"></p> 
         <p align="center"><b>HTML | CSS | JavaScript</b></p>
-        <p align="center">A dynamic website that allow users to view game information for Valorant by Riot Games.</p>
+        <p align="center">A dynamic website that allow users to view game related information for Valorant by Riot Games.</p>
         <p align="center"><a href="https://restropiajr.github.io/PlayValorant/" target="_blank">Project Website</a>  | <a href="https://github.com/restropiajr/PlayValorant" target="_blank">GitHub Repo</a></p>
     </td> 
   </tr>
