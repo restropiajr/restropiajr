@@ -28,7 +28,7 @@
 <p align="left"><b> - I am an avid gamer (Currently playing Valorant and Fortnite)</b></p>
 
 <h3 align="left">📚 Languages & 🛠️ Tools</h3>
-<p align="left"><b> - Stack: JavaScript (ES5/ES6), HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, TypeScript</b></p>
+<p align="left"><b> - Stack: JavaScript (ES5/ES6), TypeScript, HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS</b></p>
 <p align="left"><b> - Tools: Git, GitHub, VS Code, Chrome Dev Tools, HTTPie, NPM, Figma, Slack, DB Designer, Docker</b></p>
 
 <h3 align="left">📫 Contact Me</h3>
