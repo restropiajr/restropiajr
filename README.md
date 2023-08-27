@@ -18,7 +18,7 @@
 </div>
 
 <h3 align="left">🔭 Currently Working On</h3>
-<p align="left"><b> - Looking for Employment and my Portfolio</b></p>
+<p align="left"><b> - Looking for Employment and GameExplorer (Next.js Project)</b></p>
 
 <h3 align="left">🌱 Currently Learning</h3>
 <p align="left"><b> - Next.js, TypeScript, Tailwind CSS</b></p>
