@@ -6,7 +6,7 @@
 
 <div align="center"> 
   
-[![stack](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,tailwind,ts,git,github,vscode,figma,docker,nextjs)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,tailwind,ts,nextjs,git,github,vscode,figma,docker)](https://skillicons.dev)
 
 </div>
 
