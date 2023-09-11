@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋🏽, I'm Roland Estropia Jr</h1>
+<h1 align="center">Hello 👋🏽, I'm Roland Estropia Jr.</h1>
 
 <h3 align="center">Mechanical Engineer :arrow_right: Full Stack Developer</h3>
 
