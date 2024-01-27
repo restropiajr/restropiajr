@@ -18,7 +18,7 @@
 </div>
 
 <h3 align="left">🔭 Currently Working On</h3>
-<p align="left"><b> - Working with Atllas</b></p>
+<p align="left"><b> - Atllas</b></p>
 
 <h3 align="left">🌱 Currently Learning</h3>
 <p align="left"><b> - Next.js</b></p>
