@@ -21,7 +21,7 @@
 <p align="left"><b> - Atllas</b></p>
 
 <h3 align="left">📚 Languages & 🛠️ Tools</h3>
-<p align="left"><b> - Stack: JavaScript, TypeScript, HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, Next.js</b></p>
+<p align="left"><b> - Stack: JavaScript, TypeScript, HTML5, CSS3, React, Node.js, Express.js, PostgreSQL, Tailwind CSS, Next.js</b></p>
 <p align="left"><b> - Tools: Git, GitHub, VS Code, Chrome Dev Tools, HTTPie, NPM, Yarn, Figma, Slack, DB Designer</b></p>
 
 <h3 align="left">📫 Contact Me</h3>
