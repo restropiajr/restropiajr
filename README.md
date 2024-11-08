@@ -2,31 +2,6 @@
 
 <h3 align="center">Full Stack Developer with Mechanical Engineering Background</h3>
 
-<br>
-
-<div align="center"> 
-  
-[![stack](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,tailwind,ts,nextjs,git,github,vscode,figma)](https://skillicons.dev)
-
-</div>
-
-<br>
-
-<div align="center"> 
-<img height=155 src="https://readmestats.999857.xyz/api/top-langs?username=restropiajr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="restropiajr "/>
-<img height=155 src="https://readmestats.999857.xyz/api?username=restropiajr&hide=stars,contribs&show_icons=true&theme=tokyonight&locale=en" alt="restropiajr"/>
-</div>
-
-<h3 align="left">🔭 Currently Working On</h3>
-<p align="left"><b> - Atllas</b></p>
-
-<h3 align="left">📚 Languages & 🛠️ Tools</h3>
-<p align="left"><b> - Stack: JavaScript, TypeScript, HTML5, CSS3, React, Node.js, Express.js, PostgreSQL, Tailwind CSS, Next.js</b></p>
-<p align="left"><b> - Tools: Git, GitHub, VS Code, Chrome Dev Tools, HTTPie, NPM, Yarn, Figma, Slack, DB Designer</b></p>
-
-<h3 align="left">📫 Contact Me</h3>
-<p align="left"><b> - restropiajr@gmail.com</b></p>
-
 <h3 align="left">💻 Projects</h3>
 <table>
 <tbody>
