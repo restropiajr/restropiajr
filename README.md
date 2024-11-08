@@ -2,7 +2,6 @@
 
 <h3 align="center">Full Stack Developer with Mechanical Engineering Background</h3>
 
-<h3 align="left">💻 Projects</h3>
 <table>
 <tbody>
   <tr>
