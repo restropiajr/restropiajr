@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋🏽, I'm Roland Estropia Jr.</h1>
 
-<h3 align="center">Full Stack Developer with Mechanical Engineering Background</h3>
+<h3 align="center">Mechanical Engineer with Full Stack Development Experience (TypeScript, React, Node.js)</h3>
 
 <table>
 <tbody>
